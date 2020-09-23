@@ -14,6 +14,7 @@ As of September 2020, [C++ is the fastest growing language][growth], despite bei
 - Tutorials
    - [How to Learn the C and C++ Languages: The Ultimate Guide](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
    - [C++ Programming All-in-One Tutorial Series (10 HOURS!) YouTube](https://www.youtube.com/watch?v=_bYFu9mBnr4)
+   - [The Cherno C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
    - http://www.cplusplus.com/doc/tutorial/
    - http://winprog.org/tutorial/ (Win32, not core C++)
    - https://github.com/jesyspa/linear-cpp
