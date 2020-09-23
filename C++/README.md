@@ -2,7 +2,9 @@
 [C++][cpp-wiki] is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, and is currently maintained by the [ISO C++][isocpp] [Standards Committee][isocpp-committee] called WG21 (ISO/IEC JTC1/SC22 WG21). C++ is generally used when efficiency and speed is absolutely critical; for example, in financial applications and processing large amounts of data. Unlike languages like Java (managed/interpreted) and Python (dynamic/interpreted), C++ is a native language, and thus requires a separate compiler for every envorinment. A list of C++ compilers can be found [here][cpp-compilers].
 
 Despite being hated by a large group of developers, C++ is still among the most popular languages to be used, rated as the 4th most popular by TIOBE (www.tiobe.com):
-<br>![tiobepop]
+
+
+<br><br>![tiobepop]
 
 As of September 2020, [C++ is the fastest growing language][growth], despite being one of the oldest (not to mention one of the most hated).
 
@@ -57,7 +59,7 @@ Disclaimer: This section only lists proper IDEs (integrated development environm
 <br>
 
 # Examples of C++ uses:
-C++ is an extremely fast language, and is often the best choice when required peak efficiency. Do note that major projects/applications will use a number of different languages, and not one exclusively.
+C++ is an extremely fast language, and is often the best choice when peak efficiency is required. Do note that major projects/applications will use a number of different languages, and not one exclusively.
 
 - Operating Systems (partially):
    - Most kernels are written in C (not C++)
