@@ -2,11 +2,11 @@
 [C++][cpp-wiki] is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, and is currently maintained by the [ISO C++][isocpp] [Standards Committee][isocpp-committee] called WG21 (ISO/IEC JTC1/SC22 WG21). C++ is generally used when efficiency and speed is absolutely critical; for example, in financial applications and processing large amounts of data. Unlike languages like Java (managed/interpreted) and Python (dynamic/interpreted), C++ is a native language, and thus requires a separate compiler for every envorinment. A list of C++ compilers can be found [here][cpp-compilers].
 
 Despite being hated by a large group of developers, C++ is still among the most popular languages to be used, rated as the 4th most popular by TIOBE (www.tiobe.com):
-![tiobepop]
+<br>![tiobepop]
 
-As of September 2020, [C++ is the fastest growing language][growth], despite being one of the oldest (not to mention the most hated).
+As of September 2020, [C++ is the fastest growing language][growth], despite being one of the oldest (not to mention one of the most hated).
 
-<br><br>
+<br>
 
 # C++ Tutorials, Resources, Refrences, etc.
 - Tutorials
@@ -40,7 +40,7 @@ Disclaimer: This section only lists proper IDEs (integrated development environm
 ##### Recommended (Windows, Mac OS X): #1. Visual Studio, #2. CLion, #3. Xcode. On Linux, use GCC/G++ with Visual Code
 ##### Note: Visual Studio is the most popular IDE among C++ developers. I highly recommend using it, despite the fact that it is extremely large. You may regret using other IDEs when you start getting into more advanced things.
 
-<br><br>
+<br>
 
 # Popular C++ Compilers
 
@@ -51,9 +51,10 @@ Disclaimer: This section only lists proper IDEs (integrated development environm
 | Intel C++|    Intel    |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |![partial]| *      |
 |  Clang   |LLVM Project |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  | *      |
 |  MinGW   |MinGW Project|  ![yes]  |   ![no]     |![no] | ![yes] | ![yes] |  ![yes]  | *      |
+
 <br><sup>*Unreleased</sup>
 
-<br><br>
+<br>
 
 # Examples of C++ uses:
 C++ is an extremely fast language, and is often the best choice when required peak efficiency. Do note that major projects/applications will use a number of different languages, and not one exclusively.
