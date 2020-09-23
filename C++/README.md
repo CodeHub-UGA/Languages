@@ -29,6 +29,8 @@ As of September 2020, [C++ is the fastest growing language][growth], despite bei
    - https://en.cppreference.com/w/
    - http://www.cplusplus.com/reference/
 
+<br>
+
 # IDEs
 Disclaimer: This section only lists proper IDEs (integrated development environments). Popular text editors such as Visual Code has thus been excluded.
 |     IDE     | Windows? | Linux/Unix? | OSX? | Free Edition? | Link |
