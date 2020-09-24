@@ -3,6 +3,7 @@
 This repository contains information and resources concerning programming languages.
 
 File Structure (README.md and related files excluded)
+<!-- Folders denoted by -, Folders denoted by *. -->
 - C++
   - Examples
-    - HelloWorld.cpp
+    * HelloWorld.cpp
