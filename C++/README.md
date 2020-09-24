@@ -42,7 +42,7 @@ Disclaimer: This section only lists proper IDEs (integrated development environm
 |    CLion    |  ![yes]  |   ![yes]    |![yes]|    ![yes]     |https://www.jetbrains.com/clion/download/|
 | QT Creator  |  ![yes]  |   ![yes]    |![yes]|    ![yes]     |https://www.qt.io/product/development-tools|
 
-##### Recommended (Windows, Mac OS X): #1. Visual Studio, #2. CLion, #3. Xcode. On Linux, use GCC/G++ with Visual Code
+##### Recommended (Windows, Mac OS X): #1. Visual Studio, #2. CLion, #3. Xcode. On Linux, use gcc/g++ with Visual Code
 ##### Note: Visual Studio is the most popular IDE among C++ developers. I highly recommend using it, despite the fact that it is extremely large. You may regret using other IDEs when you start getting into more advanced things.
 
 <br>
@@ -51,7 +51,7 @@ Disclaimer: This section only lists proper IDEs (integrated development environm
 
 | Compiler |  Developer  | Windows? | Linux/Unix? | OSX? | C++11? | C++14? |  C++17?  | C++20? |
 |:--------:|:-----------:|:--------:|:-----------:|:----:|:------:|:------:|:--------:|:------:|
-|  GCC/G++ | GNU Project |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  | *      |
+| gcc/g++  | GNU Project |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  | *      |
 |   MSVC   |  Microsoft  |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  | *      |
 | Intel C++|    Intel    |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |![partial]| *      |
 |  Clang   |LLVM Project |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  | *      |
