@@ -6,15 +6,20 @@ Generally speaking, HTML & CSS are not considered programming languages, as they
 
 The current standards for HTML and CSS are HTML5 and CSS3, respectively. However, due to the large number of modern browsers, HTML and CSS implementations may vary from browser to browser, and so it is up to the developer to ensure browser/device cross-compadability. Most of these inconsistencies arise from styling issues; and can generally be fixed by using a CSS reset script ([Eric Meyer's "Reset CSS"][reset-css] has been uploaded to this drive).
 
+Check out [Learn.md](https://github.com/CodeHub-UGA/Concepts/blob/main/Personal%20Projects/Learn.md) under Concepts/Personal Projects for more resources.
+
 # HTML Resources
 - Tutorials
-  - TBD
+  - [W3Schools HTML][w3s-html]
+  - [The Odin Project: HTML & CSS](https://www.theodinproject.com/courses/html-and-css)
 - References (bookmark these!~)
   - [W3Schools HTML References][w3s-html]
 
 # CSS Resouces
 - Tutorials
-  - TBD
+  - [W3Schools CSS][w3s-css]
+  - [The Odin Project: HTML & CSS](https://www.theodinproject.com/courses/html-and-css)
+  - [CSS Tricks](https://css-tricks.com/)
 - CSS Styling/Animation Tools
   - Styling
     - [HTML/CSS Color Codes](https://htmlcolorcodes.com/color-names/)
