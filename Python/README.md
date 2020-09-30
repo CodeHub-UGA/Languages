@@ -14,13 +14,23 @@ Due to these aspects, Python is a high demand language. Python climbed from thir
    - [Python Environmental Setup](https://www.tutorialspoint.com/python/python_environment.html)
    - [Available IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 - Tutorials
-   - []
+   - [Python 3 Guide](https://python3.guide/introduction-to-python/the-repl)
+   - [Python for Beginners 6 Hour Video!!](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+   - [Python Tutorial Video Series](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+   - [Dive into Python 3](https://diveintopython3.problemsolving.io/your-first-python-program.html)
+   - [Learn Python Step by Step](https://www.techbeamers.com/python-keywords-identifiers-variables/)
+   - [w3schools Python Tutorial](https://www.w3schools.com/python/python_intro.asp)
 - Resources
-   - 
+   - [Python Official Website](https://www.python.org/)
+   - [Python Developer’s Guide](https://devguide.python.org/)
+   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+   - [Stackoverflow with python tagged](https://stackoverflow.com/questions/tagged/python)
 - References: code samples 
    - [The Python Standard Library](https://docs.python.org/2/library/index.html#library-index)
+   - [Python Programming: An Introduction to Computer Science](https://mcsp.wartburg.edu/zelle/python/ppics3/index.html)
+      - includes answers to code problems 
    - [Python Cookbook](https://github.com/tomarraj008/data_books/blob/master/Python%20Cookbook%2C%203rd%20Edition.pdf) 
-      - advise you download the pdf.
+      - advise you to download the pdf.
   
 <br>
 
