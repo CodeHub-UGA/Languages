@@ -11,7 +11,7 @@ Due to these aspects, Python is a high demand language. Python climbed from thir
 
 # Python Setup, Tutorials, Resources, Refrences, etc.
 - Environmental Setup for Python 
-   - [Python Environmental Setup](https://www.tutorialspoint.com/python/python_environment.html)
+   - [Python Environmental Setup](https://www.tutorialspoint.com/python/python_environment.htm)
    - [Available IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 - Tutorials
    - [Python 3 Guide](https://python3.guide/introduction-to-python/the-repl)
