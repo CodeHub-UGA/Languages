@@ -33,4 +33,4 @@ Check out [Learn.md](https://github.com/CodeHub-UGA/Concepts/blob/main/Personal%
 
 [w3s-html]: https://www.w3schools.com/html/default.asp
 [w3s-css]: https://www.w3schools.com/css/default.asp
-[reset-css]: https://github.com/CodeHub-UGA/Languages/blob/main/HTML%20%7C%20CSS/reset.css
+[reset-css]: https://github.com/CodeHub-UGA/Languages/blob/main/HTML%20%7C%20CSS/css/reset.css
