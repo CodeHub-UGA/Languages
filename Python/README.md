@@ -11,14 +11,14 @@ Due to these aspects, Python is a high demand language. Python climbed from thir
 
 <br>
 
-# Python Tutorials, Resources, Refrences, etc.
+# Python Setup, Tutorials, Resources, Refrences, etc.
+- Environmental Setup for Python
+   - [Python - Environment Setup] (https://www.tutorialspoint.com/python/python_environment.htm)
 - Tutorials
    - 
 - Resources
    - 
-   
-- References (bookmark these!~)
-   - 
+  
 <br>
 
 
@@ -37,7 +37,7 @@ Python supports cross-platform operating systems which makes building applicatio
 - Text processing and many more..
    
 
-##### Sources: https://www.geeksforgeeks.org/python-programming-language/ 
+##### Sources: https://www.geeksforgeeks.org/python-programming-language/ https://redmonk.com/sogrady/2020/02/28/language-rankings-1-20/ https://www.tutorialspoint.com/python/python_environment.htm
 
 [redmonkpopular]: ./redmonkpopular.png
 
