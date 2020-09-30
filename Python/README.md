@@ -12,7 +12,7 @@ Due to these aspects, Python is a high demand language. Python climbed from thir
 <br>
 
 # Python Setup, Tutorials, Resources, Refrences, etc.
-- Environmental Setup for Python
+- Environmental Setup for Python 
    - [Python - Environment Setup] (https://www.tutorialspoint.com/python/python_environment.htm)
 - Tutorials
    - 
