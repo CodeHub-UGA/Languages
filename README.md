@@ -12,3 +12,7 @@ File Structure (README.md and related files excluded)
     * example.html
   - css
     * reset.css
+- Python
+  - Example 
+    * hello.py
+  
