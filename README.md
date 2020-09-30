@@ -7,3 +7,8 @@ File Structure (README.md and related files excluded)
 - C++
   - Examples
     * HelloWorld.cpp
+- HTML & CSS
+  - Examples
+    * example.html
+  - css
+    * reset.css
