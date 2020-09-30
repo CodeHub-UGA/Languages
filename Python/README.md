@@ -5,6 +5,8 @@ Founded in 1991 by developer Guido Van Rossum, [Python](https://en.wikipedia.org
 
 Due to these aspects, Python is a high demand language. Python climbed from third place to tie for second in the latest ranking of programming language popularity. It’s the first time that a language other than JavaScript, which remains number one, or Java, the other runner-up, has entered the top two.
 
+<br><br> [redmonkpopular]
+
 <br>
 
 # Python Tutorials, Resources, Refrences, etc.
@@ -38,6 +40,7 @@ C++ is an extremely fast language, and is often the best choice when peak effici
 
 ##### Source: 
 
+[redmonkpopular]: ./redmonkpopular.png
 
 
 
