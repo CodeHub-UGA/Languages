@@ -1,5 +1,5 @@
 # About
-Founded in 1991 by developer Guido Van Rossum, [Python](https://en.wikipedia.org/wiki/Python_(programming_language) is a high-level, interpreted, and general-purpose dynamic programming language that focuses on code readability. It has interfaces to many system calls and libraries, as well as to various window systems, and is extensible in C or C++. Look at the table of contents for [The Python Standard Library](https://docs.python.org/2/library/index.html#library-index) to get an idea of what’s available. 
+Founded in 1991 by developer Guido Van Rossum, [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) is a high-level, interpreted, and general-purpose dynamic programming language that focuses on code readability. It has interfaces to many system calls and libraries, as well as to various window systems, and is extensible in C or C++. Look at the table of contents for [The Python Standard Library](https://docs.python.org/2/library/index.html#library-index) to get an idea of what’s available. 
 
 <br>
 
