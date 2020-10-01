@@ -25,6 +25,7 @@ Due to these aspects, Python is a high demand language. Python climbed from thir
    - [Python Developer’s Guide](https://devguide.python.org/)
    - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
    - [Stackoverflow with python tagged](https://stackoverflow.com/questions/tagged/python)
+   - [Python Cheatsheet](https://www.pythoncheatsheet.org/#Python-Basics)
 - References: code samples 
    - [The Python Standard Library](https://docs.python.org/2/library/index.html#library-index)
    - [Python Programming: An Introduction to Computer Science](https://mcsp.wartburg.edu/zelle/python/ppics3/index.html)
