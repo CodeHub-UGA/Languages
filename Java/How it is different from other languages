@@ -4,7 +4,7 @@ and therefore, can only run on the same platform in which it was compiled. Anoth
 That said, to answer this question thoroughly, Java must be compared to each language specifically. In the next section, Java is compared to six 
 of the other major programming languages that are widely used today. This includes C, C#, C++, Javascript, Ruby, and Python.
 
-# Java vs C (Very Different)
+Java vs C (Very Different)
 Java is platform-independent. C is platform-dependent.
 Java is an object-oriented programming (OOP) language. C is procedural.
 Java follows the bottom-up approach. C follows the top-down approach.
@@ -12,7 +12,7 @@ Java has automatic memory management. C has manual memory management.
 C uses pointers. Java does not.
 Java has built-in thread support. C does not.
 
-# Java vs C# (Very Similar)
+Java vs C# (Very Similar)
 Java and C# are both OOP languages.
 Java is platform-independent. C# is platform-dependent.
 Java is used for developing web applications and games.
