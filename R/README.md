@@ -2,14 +2,8 @@
 
 R is a powerful tool for statistical analysis and graphics; is very significant in Data Science and Statistics. Read more about R [here](https://www.r-project.org/about.html).
 
-
-
 ## Getting Set Up
 RStudio is an very helpful IDE for R. You can download it here: https://rstudio.com/products/rstudio/download/.
-
-## Fundamentals
-- Importing Data
-- Detailed [Cheat sheet](https://rstudio.com/wp-content/uploads/2019/01/Cheatsheets_2019.pdf) for using R (from importing data to making plots with ggplot2).
 
 ## Significant Packages
 - [Tidyverse](https://www.tidyverse.org): contains very helpful packages related to Data Science.
@@ -27,3 +21,4 @@ RStudio is an very helpful IDE for R. You can download it here: https://rstudio.
 ## Readings / In-Depth Resources
 - [R for Data Science](https://r4ds.had.co.nz) (textbook about using R)
 - [recommended readings](https://www.tidyverse.org/learn/) for more detail about Tidyverse
+- Detailed [Cheat sheet](https://rstudio.com/wp-content/uploads/2019/01/Cheatsheets_2019.pdf) for using R (from importing data to making plots with ggplot2)
