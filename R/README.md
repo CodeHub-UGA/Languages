@@ -24,3 +24,4 @@ RStudio is an very helpful IDE for R. You can download it here: https://rstudio.
   - [tibble](https://tibble.tidyverse.org): alternative type of dataframe
   - [stringr](https://stringr.tidyverse.org): working with strings
   - [forcats](https://forcats.tidyverse.org): working with categorical variables
+- You can also check out this [list of useful packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
