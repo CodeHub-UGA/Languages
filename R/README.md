@@ -8,7 +8,7 @@ RStudio is an very helpful IDE for R. You can download it here: https://rstudio.
 ## Readings / Resources
 - [R Basics](http://www.sthda.com/english/wiki/r-basics-quick-and-easy)
 - [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
-- [R for Data Science](https://r4ds.had.co.nz) (textbook about using R; super thorough!)
+- [R for Data Science](https://r4ds.had.co.nz) (textbook about using R; free and super thorough!)
 - [Recommended readings](https://www.tidyverse.org/learn/) for more detail about Tidyverse
 - Detailed [cheat sheet](https://rstudio.com/wp-content/uploads/2019/01/Cheatsheets_2019.pdf) for using R (from importing data to making plots with ggplot2)
 
