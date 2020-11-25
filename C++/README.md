@@ -25,7 +25,9 @@ As of September 2020, [C++ is the fastest growing language][growth], despite bei
    - [CppCon YouTube](https://www.youtube.com/user/CppCon)
    - [Stack Overflow (without which no list is complete)](https://stackoverflow.com/questions/tagged/c%2b%2b)
    - [Basic Online C++ Compiler](http://cpp.sh/)
-   
+- Other
+   - [C++ and more!](https://blogs.msmvps.com/gdicanio/)
+      - In-depth C++ articles that discuss the core mechanics of C++.
 - References (bookmark these!~)
    - https://en.cppreference.com/w/
    - http://www.cplusplus.com/reference/
