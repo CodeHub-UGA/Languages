@@ -34,6 +34,11 @@ As of September 2020, [C++ is the fastest growing language][growth], despite bei
 
 <br>
 
+# Advanced C++ Resouces
+#### Resources geared towards people who are interested in digging into the inner workings of C++.
+- [C++ STL Containers](https://embeddedartistry.com/blog/2017/08/02/an-overview-of-c-stl-containers/)
+
+
 # IDEs
 Disclaimer: This section only lists proper IDEs (integrated development environments). Popular text editors such as Visual Code has thus been excluded.
 |     IDE     | Windows? | Linux/Unix? | OSX? | Free Edition? | Link |
