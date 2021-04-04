@@ -10,7 +10,7 @@ As of September 2020, [C++ is the fastest growing language][growth], despite bei
 
 <br>
 
-# C++ Tutorials, Resources, Refrences, etc.
+# C++ Tutorials, Resources, References, etc.
 - Tutorials
    - [How to Learn the C and C++ Languages: The Ultimate Guide](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
    - [C++ Programming All-in-One Tutorial Series (10 HOURS!) YouTube](https://www.youtube.com/watch?v=_bYFu9mBnr4)
@@ -38,6 +38,7 @@ As of September 2020, [C++ is the fastest growing language][growth], despite bei
 # Advanced C++ Resouces
 #### Resources geared towards people who are interested in digging into the inner workings of C++.
 - [C++ STL Containers](https://embeddedartistry.com/blog/2017/08/02/an-overview-of-c-stl-containers/)
+- [Which C++ Container to Use?](https://web.archive.org/web/20180824133558/homepages.e3.net.nz/%7Edjm/cppcontainers.html)
 
 
 # IDEs
@@ -57,13 +58,13 @@ Disclaimer: This section only lists proper IDEs (integrated development environm
 
 # Popular C++ Compilers
 
-| Compiler |  Developer  | Windows? | Linux/Unix? | OSX? | C++11? | C++14? |  C++17?  | C++20? |
-|:--------:|:-----------:|:--------:|:-----------:|:----:|:------:|:------:|:--------:|:------:|
-| gcc/g++  | GNU Project |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  | *      |
-|   MSVC   |  Microsoft  |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  | *      |
-| Intel C++|    Intel    |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |![partial]| *      |
-|  Clang   |LLVM Project |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  | *      |
-|  MinGW   |MinGW Project|  ![yes]  |   ![no]     |![no] | ![yes] | ![yes] |  ![yes]  | *      |
+| Compiler |  Developer  | Windows? | Linux/Unix? | OSX? | C++11? | C++14? |  C++17?  |  C++20?  |
+|:--------:|:-----------:|:--------:|:-----------:|:----:|:------:|:------:|:--------:|:--------:|
+| gcc/g++  | GNU Project |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  |![partial]|
+|   MSVC   |  Microsoft  |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  |  ![no]   |
+| Intel C++|    Intel    |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |![partial]|![partial]|
+|  Clang   |LLVM Project |  ![yes]  |   ![yes]    |![yes]| ![yes] | ![yes] |  ![yes]  |![partial]|
+|  MinGW   |MinGW Project|  ![yes]  |   ![no]     |![no] | ![yes] | ![yes] |  ![yes]  |![partial]|
 
 <br><sup>*Unreleased</sup>
 
