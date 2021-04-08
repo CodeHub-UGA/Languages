@@ -32,6 +32,7 @@ As of September 2020, [C++ is the fastest growing language][growth], despite bei
 - References (bookmark these!~)
    - https://en.cppreference.com/w/
    - http://www.cplusplus.com/reference/
+   - [C++20](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
 
 <br>
 
