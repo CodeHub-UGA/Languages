@@ -40,6 +40,7 @@ As of September 2020, [C++ is the fastest growing language][growth], despite bei
 #### Resources geared towards people who are interested in digging into the inner workings of C++.
 - [C++ STL Containers](https://embeddedartistry.com/blog/2017/08/02/an-overview-of-c-stl-containers/)
 - [Which C++ Container to Use?](https://web.archive.org/web/20180824133558/homepages.e3.net.nz/%7Edjm/cppcontainers.html)
+- [C++ Security Sins](https://www.cppstories.com/2021/security-sins/)
 
 
 # IDEs
